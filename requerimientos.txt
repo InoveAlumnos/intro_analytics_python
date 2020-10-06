@@ -6,3 +6,4 @@ pip3 install seaborn
 pip install tensorflow
 pip3 install keras
 pip3 install -U jupyterlab
+pip3 install opencv-python
